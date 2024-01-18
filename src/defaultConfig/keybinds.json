@@ -1,0 +1,32 @@
+{
+	"comment": "keybinds are in a array of keys-action name format",
+	"comment2": "the defaults are just some random things i set, feel free to change them",
+	"keybinds": [
+		{
+			"actionName": "move-right",
+			"key": [
+				"Right",
+				"D"
+			]
+		},
+		{
+			"actionName": "move-left",
+			"key": [
+				"Left",
+				"A"
+			]
+		},
+		{
+			"actionName": "jump",
+			"key": [
+				"Space",
+			]
+		},
+		{
+			"actionName": "pause_toggle",
+			"key": [
+				"Escape",
+			]
+		}
+	]
+}
